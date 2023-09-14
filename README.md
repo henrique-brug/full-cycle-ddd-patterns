@@ -18,3 +18,18 @@
 # Instalar o tslint
     npm i tslint --save-dev
     npx tslint --init
+
+# Instalar ferramente de teste
+    npm i -D jest @types/jest ts-node --save-dev
+
+# Instalar compilador
+    npm i -D @swc/jest @swc/cli @swc/core
+
+# Inicializar o jest
+    npx jest --init
+
+# Instalar sequelize
+    npm install sequelize reflect-metadata sequelize-typescript
+
+# Instalar sqlite3
+    npm install sqlite3
